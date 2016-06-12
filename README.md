@@ -18,4 +18,6 @@ These are Python scripts using the Splinter API used to automate some browser re
 
 1. ***Check If your website/domain appears during Google search:*** This simple script can be used to check if your website/domain appears in the search results when someone searches for a cetain keyword/phrase. [See example1.py]
 
+- The script in Example1 checks whether my github page appears in the search results when someone searched my name. 
+
 
