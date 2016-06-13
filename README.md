@@ -17,7 +17,9 @@ These are Python scripts using the Splinter API used to automate some browser re
 **List of Examples covered:**
 
 1. ***Check If your website/domain appears during Google search:*** This simple script can be used to check if your website/domain appears in the search results when someone searches for a cetain keyword/phrase. [See example1.py]
+-> The script in Example1 checks whether my github page appears in the search results when someone searched my name. 
 
-- The script in Example1 checks whether my github page appears in the search results when someone searched my name. 
+2. ***Quick Screenshot:*** This script takes a screenshot of the page in the mentioned URL. This is useful for quick taking a screenshot by providing the URL without actually having to manually go to that page.
+-> The script takes the screenshot of my personal website and stores the image in the directory of the scipt as screenshot.png
 
 
