@@ -1,5 +1,5 @@
 # Splinter API Examples
-Various examples of Python scripts built using the Splinter API. 
+Various examples of Python scripts built using the Splinter API
 
 **Why this Repo?**
 
