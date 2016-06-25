@@ -7,7 +7,7 @@ browser = Browser('chrome') # note that if you do not provide any browser name t
 #visit any website using browser.visit
 browser.visit('http://google.com')
 
-#fill in the text field
+#fill in the text field (inspect the page to find the tag corresponding text field)
 browser.fill('q', 'lohit talasila')
 
 #press the search button
