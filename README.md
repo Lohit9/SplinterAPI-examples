@@ -1,7 +1,7 @@
 # Splinter API Examples
 Various examples of Python scripts built using the Splinter API
 
-**Why this Repo?**
+**What's this Repo about?**
 
 I really enjoyed working with the Splinter API and felt its simple and yet has a wide range of applications and wanted to explore what I could do with it.
 
