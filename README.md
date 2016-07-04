@@ -23,6 +23,6 @@ These are Python scripts using the Splinter API used to automate some browser re
 -> The script takes the screenshot of my personal website and stores the image in the directory of the scipt as screenshot.png
 
 3. ***Fill out secure forms (AutoFill MWS Scratchpad credentials):*** This script is an example of how you would be able to fill out secure forms. [See example3.py]. 
-      -> The script in this example fills out the text fields for the MWS scratchpad. This is useful because developers working with the MWS API need to input the credentials everytime they use the scratchpad(which is pretty often) and the keys are quite large. You can also use the gist here: https://gist.github.com/Lohit9/0498e604134c6f2e51fb9c02aadd7cd4
+      -> The script in this example fills out the secure text fields for the MWS scratchpad. This is useful because developers working with the MWS API need to input the credentials everytime they use the scratchpad(which is pretty often) and the keys are quite large. You can also use the gist here: https://gist.github.com/Lohit9/0498e604134c6f2e51fb9c02aadd7cd4
 
 
