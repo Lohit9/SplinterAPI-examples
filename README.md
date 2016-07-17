@@ -12,7 +12,7 @@ More about Splinter: https://splinter.readthedocs.io/en/latest/index.html#
 
 **What are these examples?**
 
-These are Python scripts using the Splinter API used to automate some browser related tasks. More specifically what each of the examples do are listed below, and I have included comments wherever needed to increase readability.
+These are Python scripts using the Splinter API used to automate some browser related tasks. More specifically what each of the examples do are listed below, and I have included comment's wherever I felt necessary to increase readability.
 
 **List of Examples covered:**
 
